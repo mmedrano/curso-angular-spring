@@ -1,0 +1,1 @@
+INSERT INTO db_clientes_api.cliente (vc_nombre, vc_apellido, vc_email, dt_createat) VALUES ('MIGUEL', 'MEDRANO', 'miguel.medrano@outlook.com', '2020-05-20');
